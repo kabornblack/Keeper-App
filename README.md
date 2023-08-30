@@ -1,5 +1,5 @@
 # React Notes App
-This project was inspired by Google keep and was bootstrapped with Create React App.
+This project was inspired by Google keep and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Introduction
 The React Notes App is a basic note-taking application built using React. It consists of three main components:
